@@ -1,0 +1,24 @@
+{  
+    "users": [
+        { "Valentina-Gol": "admin" },
+        { "light5551": "admin" },
+        { "pro100kot":  "admin" },
+        { "krinkin":  "admin" },
+        { "maikleProko": "admin" },
+	{ "vityha20022": "admin" }
+    ],
+    "duckiebots": [
+        "autobot01",
+        "autobot02",
+        "autobot03",
+        "autobot04",
+        "autobot05",
+        "autobot06",
+        "autobot07",
+        "autobot08",
+        "autobot09",
+        "autobot10",
+        "autobot20",
+        "autobotpi4"
+    ]
+}

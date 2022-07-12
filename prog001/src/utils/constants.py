@@ -1,0 +1,2 @@
+SOFT_STOP = 0
+HARD_STOP = 1

@@ -1,0 +1,11 @@
+duckietown-shell
+Flask
+Flask-Cors
+flask_restful
+flask_socketio
+eventlet==0.30.2
+PyGithub
+pymongo
+gunicorn
+pyjwt
+pytest
